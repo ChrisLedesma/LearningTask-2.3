@@ -304,6 +304,8 @@ body {
     border: 0px solid black;
     height: 7vh;
     width: 99.2vw;
+    text-align: center;
+    color: white;
 }
 
 /*logo*/
