@@ -75,7 +75,7 @@
                 </div>
             </div>
             <footer>
-                <div class="footer black"></div>
+                <div class="footer black">https://github.com/ChrisLedesma/LearningTask-2.3</div>
             </footer>
         </div>
     </body>
