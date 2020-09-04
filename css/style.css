@@ -123,7 +123,7 @@ body {
 }
 .hero{
     border: 0px solid black;
-    height: 85vh;
+    height: 92vh;
     width: 99.2vw;
     display: flex;
     flex-direction: row;
@@ -224,7 +224,7 @@ body {
 }
 .content1, .content2{
     border: 0px solid black;
-    height: 92vh;
+    height: 100vh;
 }
 .content1{
     display: flex;
