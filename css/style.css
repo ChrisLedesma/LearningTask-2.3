@@ -256,7 +256,7 @@ body {
     justify-content: center;
     align-items: center;
     Font-weight: Bold;
-    Font-Size: 64px;
+    Font-Size: 4rem;
 }
 .content1-content-wrap{
     border:0px solid black;
@@ -271,7 +271,7 @@ body {
     border:0px solid black;
     width: 30vw;
     height: 52vh;
-    Font-Size: 24px;
+    Font-Size: 1.5rem;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -279,7 +279,7 @@ body {
 }
 .text-subheader{
     border:0px solid black;
-    Font-Size: 30px;
+    Font-Size: 1.8rem;
     font-weight: bold;
     display: flex;
     flex-direction: column;
