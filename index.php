@@ -61,7 +61,7 @@
                             Lorem ipsum
                         </div>
                         <div class="text">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at condimentum ante. Donec convallis diam et dolor consectetur, quis pharetra justo sollicitudin. Suspendisse vel augue lorem. Donec eu tellus ex. Nulla facilisi. Nunc eu ornare sapien. Aenean elementum, nisi sit amet ultricies convallis, magna mauris luctus lorem, ac maximus risus neque vitae diam. Vestibulum mollis egestas sapien, sed rhoncus augue venenatis eget. Donec maximus sapien lorem, eu fringilla metus aliquet sed. Nam quis turpis volutpat, suscipit enim posuere, pellentesque ex. Morbi posuere nunc id convallis volutpat. Aliquam viverra diam in odio tincidunt, eu volutpat tortor cursus. Etiam pulvinar volutpat ornare. In venenatis consectetur aliquet.
+                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at condimentum ante. Donec convallis diam et dolor consectetur, quis pharetra justo sollicitudin. Suspendisse vel augue lorem. Donec eu tellus ex. Nulla facilisi. Nunc eu ornare sapien. Aenean elementum, nisi sit amet ultricies convallis, magna mauris luctus lorem, ac maximus risus neque vitae diam. Vestibulum mollis egestas sapien, sed rhoncus augue venenatis eget. Donec maximus sapien lorem, eu fringilla metus aliquet sed. Nam quis turpis volutpat, suscipit enim posuere, pellentesque ex. Morbi posuere nunc id convallis volutpat.
                         </div>
                     </div>
                     <div class="content1-image">IMAGE</div>
